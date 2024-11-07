@@ -2,6 +2,8 @@ hexedit-cmd
 2021-2024 Haruka
 Licensed under the Unlicense.
 
+SUPERSEDED BY https://github.com/akechi-haruka/hexedit2
+
 ---
 
 Command line hex-edit application.
